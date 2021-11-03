@@ -10,4 +10,8 @@ Pueden hacer lo que quieran...
 Haciendo cambios desde la web
 
 
+<<<<<<< HEAD
 ## cambios nuevos sd
+=======
+## cambios nuevos s
+>>>>>>> fb447ad (cambios locales)
