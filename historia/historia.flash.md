@@ -1,0 +1,2 @@
+# Historia de Flash
+Bartholomew Henry "Barry" Allen is a student at Central City University who was struck by a bolt of lightning one fateful night, gaining the ability to think and move at incredible superhuman speeds. Using these powers, he became a superhero in Central City known as The Flash, fighting against criminals like Captain Boomerang while trying his best to keep a low profile in the process. He is also desperate to prove his father's innocence for the grisly murder of his mother.
